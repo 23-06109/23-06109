@@ -1,4 +1,4 @@
-# Hi, I'm Jimmy Manalon 👋
+# Hi, I'm Jimmy Jr Manalon 👋
 
 ## Data Analytics & Automation Consultant
 
