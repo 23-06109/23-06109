@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @23-06109
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning data science
+# Hi, I'm Jimmy Manalon 👋
 
+## Data Analytics & Automation Consultant
 
-<!---
-23-06109/23-06109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build practical analytics and automation solutions
+for project and operations teams.
+
+### Core Tools
+
+- Excel
+- Power BI
+- SQL
+- Python
+- GitHub
+- AI Automation
+
+### What I Build
+
+📊 Business Intelligence Dashboards  
+⚙️ Reporting Automation  
+🗄️ SQL Analytics Solutions  
+🤖 AI-Assisted Business Workflows
+
+### Current Focus
+
+Building portfolio projects that demonstrate:
+
+Data Analytics → Automation → AI → Business Impact
